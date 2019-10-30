@@ -29,7 +29,7 @@ source ~/.bashrc
 
 
 
-***** install virtualenv ****
+***** install virtualenv *****
 sudo apt install virtualenv
 
 #and type in terminal for activate virtualenv
@@ -68,23 +68,6 @@ python stop_all.py
 
 3) and another new tab in terminal,for creating topic in kafka
 ./confluent-4.1.0/bin/kafka-topics  --zookeeper 127.0.0.1:2181 --create --replication-factor 1 --partitions 1 --topic mytopic
-
-
-
-
-
-***** install virtualenv ****
-sudo apt install virtualenv
-
-#and type in terminal for activate virtualenv
-source venv/bin/activate
-
-# then 
-pip install -r requirements.txt
-
-
-
-
 
 
 
