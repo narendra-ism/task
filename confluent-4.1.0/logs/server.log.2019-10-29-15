@@ -1,0 +1,8 @@
+[2019-10-29 17:09:22,376] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2019-10-29 17:19:22,376] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2019-10-29 17:29:22,376] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2019-10-29 17:35:47,204] INFO [GroupCoordinator 0]: Preparing to rebalance group mygroup with old generation 6 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-10-29 17:35:47,274] INFO [GroupCoordinator 0]: Group mygroup with generation 7 is now empty (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-10-29 17:39:22,469] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 93 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2019-10-29 17:49:22,376] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2019-10-29 17:59:22,376] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)

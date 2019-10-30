@@ -1,0 +1,95 @@
+
+
+# ***** mongodb *****
+I supposed that you have already installed mongodb server and client
+
+sudo service mongod start
+mongo
+
+
+
+
+# ***** java  should be installed *****
+
+sudo apt install openjdk-8-jdk openjdk-8-jre
+
+sudo gedit ~/.bashrc
+
+#goto bashrc, copy below five line and past in bashrc
+
+JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-amd64
+PATH=$PATH:$HOME/bin:$JAVA_HOME/bin
+export JAVA_HOME
+export JRE_HOME
+export PATH
+
+# and then 
+source ~/.bashrc
+
+
+
+
+# ***** zookeeper,kafka should be run ****
+
+#run zookeeper and kafka
+python run_all.py
+
+#if we want to stop zookeeper and kafka 
+python stop_all.py
+
+
+
+
+# ***** manually, zookeeper,kafka should be run ****
+
+
+# you can run zookerper and kafka manually.
+# run zookeeper
+1) new tab in terminal, type and enter
+./confluent-4.1.0/bin/zookeeper-server-start ./confluent-4.1.0/etc/kafka/zookeeper.properties
+
+2) another new tab in terminal ,type and enter
+./confluent-4.1.0/bin/kafka-server-start ./confluent-4.1.0/etc/kafka/server.properties
+
+3) and another new tab in terminal,for creating topic in kafka
+./confluent-4.1.0/bin/kafka-topics  --zookeeper 127.0.0.1:2181 --create --replication-factor 1 --partitions 1 --topic mytopic
+
+
+
+
+
+#***** install virtualenv ****
+sudo apt install virtualenv
+
+#and type in terminal for activate virtualenv
+source venv/bin/activate
+
+# then 
+pip install -r requirements.txt
+
+
+
+# for deactivate , type only
+deactivate
+
+
+
+
+
+# ****** Now, run flask server *****
+
+#another new tap in terminal
+python app.py
+
+#go to google browser
+1) http://127.0.0.1:5000/
+2) http://127.0.0.1:5000/calculate/1/2
+3) http://127.0.0.1:5000/get_answer/
+
+
+
+#******* or, check it also in postman api*****
+check for 
+1) http://127.0.0.1:5000/
+2) http://127.0.0.1:5000/calculate/1/2
+3) http://127.0.0.1:5000/get_answer/

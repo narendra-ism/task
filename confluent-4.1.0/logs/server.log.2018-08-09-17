@@ -1,0 +1,2 @@
+[2018-08-09 19:10:27,597] INFO Expiring session 0x1651df2bac40007, timeout of 6000ms exceeded (org.apache.zookeeper.server.ZooKeeperServer)
+[2018-08-09 19:10:27,606] INFO Processed session termination for sessionid: 0x1651df2bac40007 (org.apache.zookeeper.server.PrepRequestProcessor)

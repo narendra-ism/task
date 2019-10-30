@@ -1,0 +1,6 @@
+
+
+[avro]
+fastavro
+requests
+avro
