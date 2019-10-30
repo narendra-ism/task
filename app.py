@@ -5,7 +5,6 @@ from flask_pymongo import PyMongo
 from bson.json_util import dumps,json
 from bson.objectid import ObjectId
 from bson import json_util
-
 import time
 
 from confluent_kafka import Producer
@@ -57,11 +56,6 @@ app.url_map.converters['ObjectId'] = ObjectIdConverter
 
 @app.route("/",methods=['GET'])
 def home_page():
-	#string="Hi from test API"
-	#js = json.dumps(string)
-	#resp = Response(js, status=200, mimetype='application/json')
-	#resp.headers['Link'] = 'http://luisrei.com'
-	#return resp
 	return jsonify(string="Hi from test API"),200
 
 
@@ -80,10 +74,10 @@ def new(num1,num2):
 
 @app.route("/get_answer/<ObjectId:identifier>")
 def get_answer(identifier):
+	print("\n")
+	print("\n")
+	print("\n")
 	print("sdfghjkl:             ",identifier)
-	print("\n")
-	print("\n")
-	print("\n")
 	identifier=str(identifier)
 	print(identifier)
 	#task = mongo.db.users.find_one_or_404({'_id':ObjectId(identifier)})
@@ -120,8 +114,6 @@ def get_answer(identifier):
 		print('Consumer Received message: {}'.format(consumer_msg.value().decode('utf-8')))
 		print("\n")
 	return response
-	#return jsonify(task=dumps(task, default=json_util.default))
-
 
 
 if __name__=="__main__":
