@@ -1,0 +1,181 @@
+[2019-11-04 16:03:06,108] INFO [GroupCoordinator 0]: Group mygroup with generation 5 is now empty (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:03:15,447] INFO [GroupCoordinator 0]: Member rdkafka-3c7cde5c-e136-470b-9343-e90d75542ec1 in group mygroup has failed, removing it from the group (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:04:52,109] INFO [GroupCoordinator 0]: Preparing to rebalance group mygroup with old generation 5 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:04:52,900] INFO [GroupCoordinator 0]: Stabilized group mygroup generation 6 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:04:52,904] INFO [GroupCoordinator 0]: Assignment received from leader for group mygroup for generation 6 (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:06:24,589] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2019-11-04 16:10:07,908] INFO [GroupCoordinator 0]: Preparing to rebalance group mygroup with old generation 6 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:10:07,953] INFO [GroupCoordinator 0]: Group mygroup with generation 7 is now empty (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:14:04,502] INFO [GroupCoordinator 0]: Preparing to rebalance group mygroup with old generation 7 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:14:04,570] INFO [GroupCoordinator 0]: Stabilized group mygroup generation 8 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:14:04,615] INFO [GroupCoordinator 0]: Assignment received from leader for group mygroup for generation 8 (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:16:24,589] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2019-11-04 16:19:05,742] INFO [GroupCoordinator 0]: Preparing to rebalance group mygroup with old generation 8 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:19:05,827] INFO [GroupCoordinator 0]: Group mygroup with generation 9 is now empty (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:23:06,306] INFO [GroupCoordinator 0]: Preparing to rebalance group mygroup with old generation 9 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:23:06,395] INFO [GroupCoordinator 0]: Stabilized group mygroup generation 10 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:23:06,396] INFO [GroupCoordinator 0]: Assignment received from leader for group mygroup for generation 10 (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:23:12,596] INFO [GroupCoordinator 0]: Preparing to rebalance group mygroup with old generation 10 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:23:16,427] INFO [GroupCoordinator 0]: Member rdkafka-90bbb08e-6d54-4bba-8531-55ec96716efd in group mygroup has failed, removing it from the group (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:23:16,429] INFO [GroupCoordinator 0]: Stabilized group mygroup generation 11 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:23:16,431] INFO [GroupCoordinator 0]: Assignment received from leader for group mygroup for generation 11 (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:24:03,654] INFO [GroupCoordinator 0]: Preparing to rebalance group mygroup with old generation 11 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:24:03,712] INFO [GroupCoordinator 0]: Group mygroup with generation 12 is now empty (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:24:22,285] INFO [GroupCoordinator 0]: Preparing to rebalance group mygroup with old generation 12 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:24:22,286] INFO [GroupCoordinator 0]: Stabilized group mygroup generation 13 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:24:22,287] INFO [GroupCoordinator 0]: Assignment received from leader for group mygroup for generation 13 (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:24:37,791] INFO [GroupCoordinator 0]: Preparing to rebalance group mygroup with old generation 13 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:24:37,791] INFO [GroupCoordinator 0]: Group mygroup with generation 14 is now empty (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:26:26,861] INFO [GroupMetadataManager brokerId=0] Group mygroup transitioned to Dead in generation 14 (kafka.coordinator.group.GroupMetadataManager)
+[2019-11-04 16:26:27,578] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 2989 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2019-11-04 16:31:57,477] INFO [GroupCoordinator 0]: Preparing to rebalance group mygroup with old generation 0 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:31:57,626] INFO [GroupCoordinator 0]: Stabilized group mygroup generation 1 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:31:57,817] INFO [GroupCoordinator 0]: Assignment received from leader for group mygroup for generation 1 (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:32:13,852] INFO [GroupCoordinator 0]: Preparing to rebalance group mygroup with old generation 1 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:32:13,852] INFO [GroupCoordinator 0]: Group mygroup with generation 2 is now empty (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:36:24,589] INFO [GroupMetadataManager brokerId=0] Group mygroup transitioned to Dead in generation 2 (kafka.coordinator.group.GroupMetadataManager)
+[2019-11-04 16:36:24,663] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 74 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2019-11-04 16:38:40,926] INFO [GroupCoordinator 0]: Preparing to rebalance group mygroup with old generation 0 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:38:40,929] INFO [GroupCoordinator 0]: Stabilized group mygroup generation 1 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:38:40,933] INFO [GroupCoordinator 0]: Assignment received from leader for group mygroup for generation 1 (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:41:34,925] INFO [GroupCoordinator 0]: Preparing to rebalance group mygroup with old generation 1 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:41:38,947] INFO [GroupCoordinator 0]: Member rdkafka-2ecfa149-2431-41a9-ad24-3321f4e7f361 in group mygroup has failed, removing it from the group (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:41:38,948] INFO [GroupCoordinator 0]: Stabilized group mygroup generation 2 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:41:38,949] INFO [GroupCoordinator 0]: Assignment received from leader for group mygroup for generation 2 (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:42:42,592] INFO Terminating process due to signal SIGTERM (io.confluent.support.metrics.SupportedKafka)
+[2019-11-04 16:42:42,704] WARN The replication factor of topic __confluent.support.metrics is 1, which is less than the desired replication factor of 3.  If you happen to add more brokers to this cluster, then it is important to increase the replication factor of the topic to eventually 3 to ensure reliable and durable metrics collection. (io.confluent.support.metrics.common.kafka.KafkaUtilities)
+[2019-11-04 16:42:42,707] INFO ProducerConfig values: 
+	acks = 1
+	batch.size = 16384
+	bootstrap.servers = [PLAINTEXT://narendra-Aspire-V5-471:9092]
+	buffer.memory = 33554432
+	client.id = 
+	compression.type = none
+	confluent.batch.expiry.ms = 30000
+	connections.max.idle.ms = 540000
+	enable.idempotence = false
+	interceptor.classes = []
+	key.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+	linger.ms = 0
+	max.block.ms = 10000
+	max.in.flight.requests.per.connection = 5
+	max.request.size = 1048576
+	metadata.max.age.ms = 300000
+	metric.reporters = []
+	metrics.num.samples = 2
+	metrics.recording.level = INFO
+	metrics.sample.window.ms = 30000
+	partitioner.class = class org.apache.kafka.clients.producer.internals.DefaultPartitioner
+	receive.buffer.bytes = 32768
+	reconnect.backoff.max.ms = 1000
+	reconnect.backoff.ms = 50
+	request.timeout.ms = 30000
+	retries = 0
+	retry.backoff.ms = 100
+	sasl.jaas.config = null
+	sasl.kerberos.kinit.cmd = /usr/bin/kinit
+	sasl.kerberos.min.time.before.relogin = 60000
+	sasl.kerberos.service.name = null
+	sasl.kerberos.ticket.renew.jitter = 0.05
+	sasl.kerberos.ticket.renew.window.factor = 0.8
+	sasl.mechanism = GSSAPI
+	security.protocol = PLAINTEXT
+	send.buffer.bytes = 131072
+	ssl.cipher.suites = null
+	ssl.enabled.protocols = [TLSv1.2, TLSv1.1, TLSv1]
+	ssl.endpoint.identification.algorithm = null
+	ssl.key.password = null
+	ssl.keymanager.algorithm = SunX509
+	ssl.keystore.location = null
+	ssl.keystore.password = null
+	ssl.keystore.type = JKS
+	ssl.protocol = TLS
+	ssl.provider = null
+	ssl.secure.random.implementation = null
+	ssl.trustmanager.algorithm = PKIX
+	ssl.truststore.location = null
+	ssl.truststore.password = null
+	ssl.truststore.type = JKS
+	transaction.timeout.ms = 60000
+	transactional.id = null
+	value.serializer = class org.apache.kafka.common.serialization.ByteArraySerializer
+ (org.apache.kafka.clients.producer.ProducerConfig)
+[2019-11-04 16:42:42,754] INFO Kafka version : 1.1.0-cp1 (org.apache.kafka.common.utils.AppInfoParser)
+[2019-11-04 16:42:42,754] INFO Kafka commitId : 93e03414f72c2485 (org.apache.kafka.common.utils.AppInfoParser)
+[2019-11-04 16:42:42,760] INFO Cluster ID: GTeVCoHqSQanW99PWlliKg (org.apache.kafka.clients.Metadata)
+[2019-11-04 16:42:42,812] INFO [Producer clientId=producer-2] Closing the Kafka producer with timeoutMillis = 9223372036854775807 ms. (org.apache.kafka.clients.producer.KafkaProducer)
+[2019-11-04 16:42:42,817] INFO Successfully submitted metrics to Kafka topic __confluent.support.metrics (io.confluent.support.metrics.submitters.KafkaSubmitter)
+[2019-11-04 16:42:43,926] INFO [GroupCoordinator 0]: Member rdkafka-f969dca5-b608-45b1-9ccb-dd5f19c4ba87 in group mygroup has failed, removing it from the group (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:42:43,926] INFO [GroupCoordinator 0]: Preparing to rebalance group mygroup with old generation 2 (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:42:43,927] INFO [GroupCoordinator 0]: Group mygroup with generation 3 is now empty (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:42:44,403] INFO Successfully submitted metrics to Confluent via secure endpoint (io.confluent.support.metrics.submitters.ConfluentSubmitter)
+[2019-11-04 16:42:44,404] INFO Graceful terminating metrics collection because the monitored component is shutting down... (io.confluent.support.metrics.BaseMetricsReporter)
+[2019-11-04 16:42:44,404] INFO Metrics collection stopped (io.confluent.support.metrics.BaseMetricsReporter)
+[2019-11-04 16:42:44,413] INFO [KafkaServer id=0] shutting down (kafka.server.KafkaServer)
+[2019-11-04 16:42:44,420] INFO [KafkaServer id=0] Starting controlled shutdown (kafka.server.KafkaServer)
+[2019-11-04 16:42:44,519] INFO [KafkaServer id=0] Controlled shutdown succeeded (kafka.server.KafkaServer)
+[2019-11-04 16:42:44,523] INFO [/config/changes-event-process-thread]: Shutting down (kafka.common.ZkNodeChangeNotificationListener$ChangeEventProcessThread)
+[2019-11-04 16:42:44,523] INFO [/config/changes-event-process-thread]: Stopped (kafka.common.ZkNodeChangeNotificationListener$ChangeEventProcessThread)
+[2019-11-04 16:42:44,523] INFO [/config/changes-event-process-thread]: Shutdown completed (kafka.common.ZkNodeChangeNotificationListener$ChangeEventProcessThread)
+[2019-11-04 16:42:44,557] INFO [SocketServer brokerId=0] Stopping socket server request processors (kafka.network.SocketServer)
+[2019-11-04 16:42:44,574] INFO [SocketServer brokerId=0] Stopped socket server request processors (kafka.network.SocketServer)
+[2019-11-04 16:42:44,576] INFO [Kafka Request Handler on Broker 0], shutting down (kafka.server.KafkaRequestHandlerPool)
+[2019-11-04 16:42:44,587] INFO [Kafka Request Handler on Broker 0], shut down completely (kafka.server.KafkaRequestHandlerPool)
+[2019-11-04 16:42:44,590] INFO [KafkaApi-0] Shutdown complete. (kafka.server.KafkaApis)
+[2019-11-04 16:42:44,595] INFO [ExpirationReaper-0-topic]: Shutting down (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2019-11-04 16:42:44,601] INFO [ExpirationReaper-0-topic]: Stopped (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2019-11-04 16:42:44,601] INFO [ExpirationReaper-0-topic]: Shutdown completed (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2019-11-04 16:42:44,609] INFO [TransactionCoordinator id=0] Shutting down. (kafka.coordinator.transaction.TransactionCoordinator)
+[2019-11-04 16:42:44,621] INFO [ProducerId Manager 0]: Shutdown complete: last producerId assigned 0 (kafka.coordinator.transaction.ProducerIdManager)
+[2019-11-04 16:42:44,622] INFO [Transaction State Manager 0]: Shutdown complete (kafka.coordinator.transaction.TransactionStateManager)
+[2019-11-04 16:42:44,622] INFO [Transaction Marker Channel Manager 0]: Shutting down (kafka.coordinator.transaction.TransactionMarkerChannelManager)
+[2019-11-04 16:42:44,623] INFO [Transaction Marker Channel Manager 0]: Shutdown completed (kafka.coordinator.transaction.TransactionMarkerChannelManager)
+[2019-11-04 16:42:44,623] INFO [Transaction Marker Channel Manager 0]: Stopped (kafka.coordinator.transaction.TransactionMarkerChannelManager)
+[2019-11-04 16:42:44,624] INFO [TransactionCoordinator id=0] Shutdown complete. (kafka.coordinator.transaction.TransactionCoordinator)
+[2019-11-04 16:42:44,639] INFO [GroupCoordinator 0]: Shutting down. (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:42:44,639] INFO [ExpirationReaper-0-Heartbeat]: Shutting down (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2019-11-04 16:42:44,726] INFO [ExpirationReaper-0-Heartbeat]: Stopped (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2019-11-04 16:42:44,726] INFO [ExpirationReaper-0-Heartbeat]: Shutdown completed (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2019-11-04 16:42:44,727] INFO [ExpirationReaper-0-Rebalance]: Shutting down (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2019-11-04 16:42:44,746] INFO [ExpirationReaper-0-Rebalance]: Stopped (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2019-11-04 16:42:44,746] INFO [ExpirationReaper-0-Rebalance]: Shutdown completed (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2019-11-04 16:42:44,748] INFO [GroupCoordinator 0]: Shutdown complete. (kafka.coordinator.group.GroupCoordinator)
+[2019-11-04 16:42:44,750] INFO [ReplicaManager broker=0] Shutting down (kafka.server.ReplicaManager)
+[2019-11-04 16:42:44,750] INFO [LogDirFailureHandler]: Shutting down (kafka.server.ReplicaManager$LogDirFailureHandler)
+[2019-11-04 16:42:44,750] INFO [LogDirFailureHandler]: Shutdown completed (kafka.server.ReplicaManager$LogDirFailureHandler)
+[2019-11-04 16:42:44,750] INFO [LogDirFailureHandler]: Stopped (kafka.server.ReplicaManager$LogDirFailureHandler)
+[2019-11-04 16:42:44,751] INFO [ReplicaFetcherManager on broker 0] shutting down (kafka.server.ReplicaFetcherManager)
+[2019-11-04 16:42:44,767] INFO [ReplicaFetcherManager on broker 0] shutdown completed (kafka.server.ReplicaFetcherManager)
+[2019-11-04 16:42:44,768] INFO [ReplicaAlterLogDirsManager on broker 0] shutting down (kafka.server.ReplicaAlterLogDirsManager)
+[2019-11-04 16:42:44,768] INFO [ReplicaAlterLogDirsManager on broker 0] shutdown completed (kafka.server.ReplicaAlterLogDirsManager)
+[2019-11-04 16:42:44,768] INFO [ExpirationReaper-0-Fetch]: Shutting down (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2019-11-04 16:42:44,892] INFO [ExpirationReaper-0-Fetch]: Stopped (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2019-11-04 16:42:44,892] INFO [ExpirationReaper-0-Fetch]: Shutdown completed (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2019-11-04 16:42:44,893] INFO [ExpirationReaper-0-Produce]: Shutting down (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2019-11-04 16:42:45,001] INFO [ExpirationReaper-0-Produce]: Stopped (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2019-11-04 16:42:45,001] INFO [ExpirationReaper-0-Produce]: Shutdown completed (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2019-11-04 16:42:45,002] INFO [ExpirationReaper-0-DeleteRecords]: Shutting down (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2019-11-04 16:42:45,201] INFO [ExpirationReaper-0-DeleteRecords]: Stopped (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2019-11-04 16:42:45,201] INFO [ExpirationReaper-0-DeleteRecords]: Shutdown completed (kafka.server.DelayedOperationPurgatory$ExpiredOperationReaper)
+[2019-11-04 16:42:45,270] INFO [ReplicaManager broker=0] Shut down completely (kafka.server.ReplicaManager)
+[2019-11-04 16:42:45,271] INFO Shutting down. (kafka.log.LogManager)
+[2019-11-04 16:42:45,431] INFO [ProducerStateManager partition=mytopic-0] Writing producer snapshot at offset 35 (kafka.log.ProducerStateManager)
+[2019-11-04 16:42:45,536] INFO [ProducerStateManager partition=__confluent.support.metrics-0] Writing producer snapshot at offset 2 (kafka.log.ProducerStateManager)
+[2019-11-04 16:42:45,580] INFO [ProducerStateManager partition=__consumer_offsets-39] Writing producer snapshot at offset 31 (kafka.log.ProducerStateManager)
+[2019-11-04 16:42:45,727] INFO Shutdown complete. (kafka.log.LogManager)
+[2019-11-04 16:42:45,748] INFO [ZooKeeperClient] Closing. (kafka.zookeeper.ZooKeeperClient)
+[2019-11-04 16:42:45,832] INFO Session: 0x16e35c5a73f0004 closed (org.apache.zookeeper.ZooKeeper)
+[2019-11-04 16:42:45,833] INFO EventThread shut down for session: 0x16e35c5a73f0004 (org.apache.zookeeper.ClientCnxn)
+[2019-11-04 16:42:45,870] INFO [ZooKeeperClient] Closed. (kafka.zookeeper.ZooKeeperClient)
+[2019-11-04 16:42:45,878] INFO [ThrottledRequestReaper-Fetch]: Shutting down (kafka.server.ClientQuotaManager$ThrottledRequestReaper)
+[2019-11-04 16:42:46,782] INFO [ThrottledRequestReaper-Fetch]: Stopped (kafka.server.ClientQuotaManager$ThrottledRequestReaper)
+[2019-11-04 16:42:46,782] INFO [ThrottledRequestReaper-Fetch]: Shutdown completed (kafka.server.ClientQuotaManager$ThrottledRequestReaper)
+[2019-11-04 16:42:46,783] INFO [ThrottledRequestReaper-Produce]: Shutting down (kafka.server.ClientQuotaManager$ThrottledRequestReaper)
+[2019-11-04 16:42:47,782] INFO [ThrottledRequestReaper-Produce]: Stopped (kafka.server.ClientQuotaManager$ThrottledRequestReaper)
+[2019-11-04 16:42:47,782] INFO [ThrottledRequestReaper-Produce]: Shutdown completed (kafka.server.ClientQuotaManager$ThrottledRequestReaper)
+[2019-11-04 16:42:47,783] INFO [ThrottledRequestReaper-Request]: Shutting down (kafka.server.ClientQuotaManager$ThrottledRequestReaper)
+[2019-11-04 16:42:48,782] INFO [ThrottledRequestReaper-Request]: Stopped (kafka.server.ClientQuotaManager$ThrottledRequestReaper)
+[2019-11-04 16:42:48,782] INFO [ThrottledRequestReaper-Request]: Shutdown completed (kafka.server.ClientQuotaManager$ThrottledRequestReaper)
+[2019-11-04 16:42:48,816] INFO [SocketServer brokerId=0] Shutting down socket server (kafka.network.SocketServer)
+[2019-11-04 16:42:48,857] INFO [SocketServer brokerId=0] Shutdown completed (kafka.network.SocketServer)
+[2019-11-04 16:42:48,864] INFO [KafkaServer id=0] shut down completed (kafka.server.KafkaServer)
